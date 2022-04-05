@@ -1,0 +1,16 @@
+.dateList{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+     
+   padding-left: 125px;
+     width: 500px;
+     flex-wrap: wrap;
+     
+}
+.data{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+     font-weight: bold;
+     font-size: 20px;
+     flex-wrap: wrap;
+}
